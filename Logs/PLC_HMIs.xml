@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="PLC_HMIs.xml" projectName="C:\Users\PC\Desktop\PLC_HMIs.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="11:48:12 PM">
+    <Message>Error found while loading file C:\Users\PC\Desktop\PLC_HMIs.xlsx, the file may be in use or read-only.</Message>
+  </LogEntry>
+</LogFile>

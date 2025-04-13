@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="PLCTags Log_1.xml" projectName="C:\Users\PC\Desktop\PLCTags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="10:00:28 AM">
+    <Message>The folder "Hmi Tags" could not be found in the specified file. The import is aborted.</Message>
+  </LogEntry>
+</LogFile>
