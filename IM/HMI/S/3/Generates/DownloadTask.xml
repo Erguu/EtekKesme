@@ -2,7 +2,7 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="17.0.0.0"
-    CreationTime="2024-08-25 03:00:51 (UTC)"
+    CreationTime="2025-04-18 12:34:12 (UTC)"
     Runtime="SMART"
     RtProjectName="EtekKesme.HMI_1[KTP700 Basic PN]"
     RtProjectFolderName="EtekKesme.HMI_1[KTP700 Basic PN]"
@@ -19,5 +19,11 @@
   <FullDownload
     type="ADMINDATA">pdata.pwx</FullDownload>
   <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R001.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R002.cnk</FullDownload>
   <FullDownload>pdata.ETH0.cnk</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.R000.cnk</FullDownload>
 </DownloadTask>
